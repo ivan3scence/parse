@@ -1,0 +1,165 @@
+1631834946592	geckodriver	INFO	Listening on 127.0.0.1:47209
+1631834946596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMGiA6U"
+1631834950784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMGiA6U/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1631834963661	Marionette	INFO	Listening on port 40905
+1631834964681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WebGL context was lost.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1631834992159	Marionette	INFO	Stopped listening on port 40905
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631835421773	geckodriver	INFO	Listening on 127.0.0.1:37519
+1631835421779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileftREEn"
+1631835422423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileftREEn/search.json.mozlz4", (void 0)))
+1631835426041	Marionette	INFO	Listening on port 34559
+1631835426879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631835450337	geckodriver	INFO	Listening on 127.0.0.1:40107
+1631835450344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileak0Jnl"
+1631835450981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileak0Jnl/search.json.mozlz4", (void 0)))
+1631835455692	Marionette	INFO	Stopped listening on port 34559
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "_init: failure initializing search:" 2147549183
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147549183
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 216))
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631835464750	geckodriver	INFO	Listening on 127.0.0.1:35929
+1631835464761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSOIaME"
+1631835465381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSOIaME/search.json.mozlz4", (void 0)))
+1631835471927	Marionette	INFO	Listening on port 42923
+1631835472548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://st1-27.vk.com/dist/web/grip.e9ef4c99cd4ecfcc9de0.js?7665b54ce7387f414f0c8d60e6833f3f, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-27.vk.com/dist/web/grip.e9ef4c99cd4ecfcc9de0.js?7665b54ce7387f414f0c8d60e6833f3f, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WebGL context was lost.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1631835514725	Marionette	INFO	Stopped listening on port 42923
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631835587072	geckodriver	INFO	Listening on 127.0.0.1:49761
+1631835587075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePdnrwJ"
+1631835591823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePdnrwJ/search.json.mozlz4", (void 0)))
+1631835596783	Marionette	INFO	Listening on port 39923
+1631835596821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631835604759	Marionette	INFO	Stopped listening on port 39923
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1631835624741	geckodriver	INFO	Listening on 127.0.0.1:44245
+1631835624744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFR0CWZ"
+1631835628513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFR0CWZ/search.json.mozlz4", (void 0)))
+1631835632946	Marionette	INFO	Listening on port 41521
+1631835632990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631835646060	Marionette	INFO	Stopped listening on port 41521
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1631835826659	geckodriver	INFO	Listening on 127.0.0.1:55301
+1631835826663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJopcgq"
+1631835829537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJopcgq/search.json.mozlz4", (void 0)))
+1631835834134	Marionette	INFO	Listening on port 45263
+1631835834786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/0laMBStFIjGDX-Lbokpit1PiwVNzXcztY6qwAF7AamA.js line 1 > eval line 5592 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1631835862352	Marionette	INFO	Stopped listening on port 45263
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631835912261	geckodriver	INFO	Listening on 127.0.0.1:59047
+1631835912265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileDDvogf"
+1631835914697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDDvogf/search.json.mozlz4", (void 0)))
+1631835919345	Marionette	INFO	Listening on port 44983
+1631835920053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WebGL context was lost.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1631835928560	Marionette	INFO	Stopped listening on port 44983
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1631835963804	geckodriver	INFO	Listening on 127.0.0.1:37739
+1631835963807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelRWSvf"
+1631835966456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelRWSvf/search.json.mozlz4", (void 0)))
+1631835971115	Marionette	INFO	Listening on port 35019
+1631835971628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: WebGL context was lost.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: TypeError: 'get ready' called on an object that does not implement interface ServiceWorkerContainer.
+JavaScript error: https://www.auchan.ru/__qrator/qauth_utm_v2.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1631835977015	Marionette	INFO	Stopped listening on port 35019
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 23739, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-i2FYvX/firefox-92.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631835979994	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
